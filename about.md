@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The name is Jerry Pon. I'm a longhorn studying computer science. I'm currently taking Object-Oriented Programming with Dr. Downing. I'll update this blog at least once a week to share my experience with this class.
+The name is Jerry Pon. I'm a longhorn studying computer science. I'm currently taking Object-Oriented Programming with Dr. Downing. I'll update this blog at least once a week to share my experience in this class.
 
 ### More Information
 

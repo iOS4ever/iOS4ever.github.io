@@ -4,7 +4,7 @@ title: First week of Fall 2015! (And the first real blog post ever)
 ---
 Hello, longhorn who is interested in taking Downing's class. 
 
-Hello, transformed me.
+Hello, stalkers.
 
 SO. Today is Friday (finally!). I now shall share my experience in the first week with CS371p Object-Oriented Programming with Downing.
 

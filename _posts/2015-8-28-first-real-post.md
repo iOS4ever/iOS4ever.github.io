@@ -21,3 +21,5 @@ Who am I? I'm a human, and that's all you need to know, for now.
 We'll meet again.
 
 Soon-to-be-Spartan0x75
+
+Tip of the Week: If you are trying to figure out how all this blog thing works and matches the specification that was given out to you, please get a machine that's fast enough so you wouldn't wanna to smash your computer into pieces, like me.

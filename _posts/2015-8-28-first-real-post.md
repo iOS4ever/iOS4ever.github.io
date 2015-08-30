@@ -20,6 +20,6 @@ Who am I? I'm a human, and that's all you need to know, for now.
 
 We'll meet again.
 
-Soon-to-be-Spartan0x75
+Tip of the Week: 
 
-Tip of the Week: If you are trying to figure out how all this blog thing works and matches the specification that was given out to you, please get a machine that's fast enough so you wouldn't wanna to smash your computer into pieces, like me.
+Make sure your hardware is fast enough to do things from programming to figuring out how to blog post. It will save you a ton of frustration. If you just ordered a new computer, it might also be a good thing to make sure that it can arrive before you need it, e.g. school. I learned my lesson the hard way so you don't have to.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 5 - *Per aspera ad astra*
+title: Week 5 - _Per aspera ad astra_
 ---
 Hello fellow Earthlings. 
 

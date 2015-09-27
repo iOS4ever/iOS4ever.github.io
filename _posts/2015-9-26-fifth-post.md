@@ -24,6 +24,9 @@ I’ll end it with a quote from Alex that sums up everything very well:
 
 “*As developers, we have a finite number of commits before we expired*.”
 
-**Tip of the Week**: “*Your time is limited, so don't waste it living someone else’s life*.” – Steve Jobs 
+**Tip of the Week**: 
+
+“*Your time is limited, so don't waste it living someone else’s life*.” 
+    – Steve Jobs 
 
 P.S. I am writing this on my iPhone while riding the bus, so if there's any misspelled word or error, please feel free to tell me. Thanks! 

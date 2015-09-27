@@ -2,7 +2,7 @@
 layout: post
 title: Week 5 - Per aspera ad astra
 ---
-Hello fellow Earthlings. 
+Hello, fellow Earthlings. 
 
 This week was incredibly long and interesting as it was the start of a new chapter of my life. Monday was all about getting jobs. Yup, I skipped all of my classes on Monday like a good CS Longhorn, so technically it's not part of the OOP experience, but I'm just going to talk about it because why not. After all, it's about sharing my experience with my fellow CS people. 
 

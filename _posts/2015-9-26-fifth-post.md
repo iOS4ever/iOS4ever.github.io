@@ -22,7 +22,7 @@ It's difficult to get a job. It's even more difficult to do what you love to do 
 
 I’ll end it with a quote from Alex that sums up everything very well:
 
-“*As developers, we have a finite number of commits before we expired*.”
+“*As developers, we have a finite number of commits before we expire*.”
 
 **Tip of the Week**: 
 

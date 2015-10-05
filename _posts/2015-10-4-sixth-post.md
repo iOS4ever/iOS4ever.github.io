@@ -15,9 +15,9 @@ See you again soon (assuming I don’t bomb the exam).
 **Tip of the Week**: 
 
 I learned this from my HackTX last weekend. If you wanna create a local host for your html file, just go to the directory of the html file and type in this:
-
+```
 python -m SimpleHTTPServer
-
+```
 Then you can just go to the browser and type in http://localhost:8000/ to view your beautiful (or incredibly clean) web app!
 
 *P.S.* Did you know that lambda was used as a shield pattern by the mighty Spartans? SPARTA!

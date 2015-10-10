@@ -18,7 +18,7 @@ Then there’s the best kind of special gun – the one that mimics a constant p
 
 Okay, maybe Downing didn’t use those exact words, but you get the idea. RIP Joaquin. Hello Joaquin the Smurf!
 
-See you at the virtual paintball field.
+See you on the virtual paintball field.
 
 **Tip of the Week**: 
 

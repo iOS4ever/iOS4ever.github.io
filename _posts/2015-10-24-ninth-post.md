@@ -11,9 +11,9 @@ Let me go back to Monday. We went over vectors, but I’m not going to talk abou
 Friday lecture, once again, was the best one of the week. It can be divided into two parts – implicit type conversion and friends. The first part was especially interesting for me because I encountered it while I was studying for the midterm. I built a bidirectional iterator and put the following code to test them just out of curiosity, and yes, I expected it to fail.
 
 ```
-Bi_Iterator<int> bi1 = 3;     
-*bi1 = 2;     
-assert(bi1 == 2);    
+  Bi_Iterator<int> bi1 = 3;     
+  *bi1 = 2;     
+  assert(bi1 == 2);    
 ```
 To my surprise, it passed, and my mind was blown. After a long investigation, i.e., putting cout in a bunch of places, it turned out that it was calling the constructor for the 2. I made a conclusion that the compiler automatically casts it to an iterator so it can make the comparison. It turns out that I was kind of right. It is actually called “implicit type conversion,” and boy is it fun. We were then introduced to the explicit keyword. It basically tells the compiler to not make any assumption, and if a function/method call does not behave the way it is expecting, it would not compile. So, if my bidirectional iterator constructor had *explicit* in front of it, the assertion should fail. I haven’t tried it yet, but I trust Downing.
 

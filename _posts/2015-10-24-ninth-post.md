@@ -29,7 +29,7 @@ Halo 5 is coming out this coming Tuesday! If you have read my previous blog post
 
 I also want to post the first episode of the third season as it gives a peak into the music composing process. One of the best things of Halo is that it has one of the best soundtracks in the world, and as a music lover, it is one of the major reasons why I’m so attached to the series (being a space junkie also helped :) ). 
 
-Here is the [video]( https://www.youtube.com/watch?v=sQDkJwenbUE). If you just want to hear the music part, you can keep over to [10:55](http://www.youtube.com/watch?v=sQDkJwenbUE&t=11m55s) mark. I will be lying if I say my eyes did not get watery when I first heard this.
+Here is the [video]( https://www.youtube.com/watch?v=sQDkJwenbUE). If you just want to hear the music part, you can keep over to [10:55](http://www.youtube.com/watch?v=sQDkJwenbUE&t=11m55s) mark. I will be lying if I say my eyes did not get watery when I first heard this. It is a love letter to us Halo fans.
 
 Anyway, I sure hope that some of you can also enjoy this piece of art. I also just realized that this has become a long post. Oops!
 

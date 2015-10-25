@@ -17,7 +17,7 @@ Friday lecture, once again, was the best one of the week. It can be divided into
 ```
 To my surprise, it passed, and my mind was blown. After a long investigation, i.e., putting cout in a bunch of places, it turned out that it was calling the constructor for the 2. I made a conclusion that the compiler automatically casts it to an iterator so it can make the comparison. It turns out that I was kind of right. It is actually called “implicit type conversion,” and boy is it fun. We were then introduced to the explicit keyword. It basically tells the compiler to not make any assumption, and if a function/method call does not behave the way it is expecting, it would not compile. So, if my bidirectional iterator constructor had *explicit* in front of it, the assertion should fail. I haven’t tried it yet, but I trust Downing.
 
-We then talked about friendship. It is a way for non-member function to access information that’s declared private. My partner and I used it to test our private functions in project 3, but I was not sure how it actually worked. This led us to the C++ joke that Downing mentioned at the end of the class. I make some modification inside the parentheses to make it less creepy:
+We then talked about friendship. It is a way for non-member function to access information that’s declared private. My partner and I used it to test our private functions in project 3, but I was not sure how it actually worked. This led us to the C++ joke that Downing mentioned at the end of the class. I made some modification inside the parentheses to make it less creepy:
 
 *A friend (with benefits, hopefully) has all the access to your private parts.*
 

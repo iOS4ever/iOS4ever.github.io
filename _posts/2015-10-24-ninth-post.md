@@ -25,7 +25,7 @@ We then talked about friendship. It is a way for non-member function to access i
 
 **Tip of the Week: Halo Edition**
 
-Halo 5 is coming out this coming Tuesday! If you have read my previous blog posts or just know me in person, you know that I’m a complete Halo nerd, a.k.a. a Spartan. The developer of the series, 343 Industries, posted a behind the scene series called “The Sprint.” A sprint is usually a two-week deadline, and it is not unique to 343 Industries. If you are interested, I strongly recommend you to go to YouTube and checkout the videos. 
+Halo 5 is coming out this Tuesday! If you have read my previous blog posts or just know me in person, you know that I’m a complete Halo nerd, a.k.a. a Spartan. The developer of the series, 343 Industries, posted a behind the scene series called “The Sprint.” A sprint is usually a two-week deadline, and it is not unique to 343 Industries. If you are interested, I strongly recommend you to go to YouTube and checkout the videos. 
 
 I also want to post the first episode of the third season as it gives a peak into the music composing process. One of the best things of Halo is that it has one of the best soundtracks in the world, and as a music lover, it is one of the major reasons why I’m so attached to the series (being a space junkie also helped :) ). 
 

@@ -23,7 +23,7 @@ We then talked about friendship. It is a way for non-member function to access i
 
 
 
-**Tip of the Week: Halo Edition**: 
+**Tip of the Week: Halo Edition**
 
 Halo 5 is coming out this coming Tuesday! If you have read my previous blog posts or just know me in person, you know that I’m a complete Halo nerd, a.k.a. a Spartan. The developer of the series, 343 Industries, posted a behind the scene series called “The Sprint.” A sprint is usually a two-week deadline, and it is not unique to 343 Industries. If you are interested, I strongly recommend you to go to YouTube and checkout the videos. 
 

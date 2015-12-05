@@ -45,4 +45,4 @@ It turns out that listening to music with lyrics while you’re writing somethin
 
 **Tip of the Week 3**:
 
-As promised, I wrote a blog last week about gender equality. I really did it for myself as a reminder of why I do what I do, but if you’re interested, feel free to click [here](http://ios4ever.github.io/fourteenth-post/).
+As promised, I wrote a blog post last week about gender equality. I really did it for myself as a reminder of why I do what I do, but if you’re interested, feel free to click [here](http://ios4ever.github.io/fourteenth-post/).

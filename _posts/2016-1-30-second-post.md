@@ -16,6 +16,20 @@ What does it have to do with exception, you ask? Well, you don’t want me to sp
 
 Now, let’s all get a job next week, shall we?
 
+*Edit: Just realized that we still need to answer the questions. I guess this is a weekly thing now. Quite odd…
+
+**What did you do this past week?**
+
+Doing homework for my classes and played the new Halo 5 update. Halo 2 BR sure is awesome! Doing Collatz, however, was what I did *not* do.
+
+**What’s in your way?**
+
+Quizzes and more quizzes. 
+
+**What will you do next week?**
+
+It’s the career fair! I’m going to the UTCS career night on Monday and then go to the career fair on Tuesday. Maybe I can get myself a full time job for next year, and hopefully some swags.
+
 **Tip of the Week**:
 
 Google has made something awesome called [AlphaGO]( https://www.facebook.com/verge/videos/1029273450442331/). It is an AI that masters the ancient Chinese chess game called [Go]( https://en.m.wikipedia.org/wiki/Go_(game)). Most AIs use the old fashion brute-force method to win a game; however, Go simply has way too many possibilities for that to work. It sure is interesting to see how Google tackled that problem and showed off this modern AI technology. The future sure is now. How exciting!

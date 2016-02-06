@@ -10,7 +10,7 @@ To be a good student, you should never skip your classes. Downing made it very c
  
 Downing also said that we should move heaven and earth to get an internship in summer, so I guess it goes like this: 
  
-'''
+```
   try: 
     goToClass() 
   except (CareerFair): 
@@ -19,7 +19,7 @@ Downing also said that we should move heaven and earth to get an internship in s
     noJob() 
   finally: 
     lifeContinues()
-''' 
+```
  
 Yeah, I know it’s bad pseudo code, but hey, it’s not that bad considering that it’s my first attempt of writing stupid, useless pseudo code. 
  

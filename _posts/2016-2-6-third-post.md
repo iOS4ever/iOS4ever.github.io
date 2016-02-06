@@ -49,8 +49,8 @@ Start on project 2: Netflix! I cannot wait to finish this project so we can star
   
 **Tip of the Week**:  
 
-Have you heard of the term “[Cargo Cult]{ https://en.wikipedia.org/wiki/Cargo_cult}?”  It is used to describe an attempt to replicate some meaningless practices to achieve successful outcome. 
+Have you heard of the term “[Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult)?”  It is used to describe an attempt to replicate some meaningless practices to achieve successful outcome. 
  
-This leads me to [Cargo Cult Programming]{https://en.wikipedia.org/wiki/Cargo_cult_programming}. I feel like it is a mistake that many of us are constantly making unconsciously. As programmers, we need to understand the core of the problem that we're trying to solve through computer software and what the users really want from our programs. We should never blindly code something into our app just because it was done previously. That is simply not efficient and could potentially be harmful as it may introduce bugs into our programs. 
+This leads me to [Cargo Cult Programming](https://en.wikipedia.org/wiki/Cargo_cult_programming). I feel like it is a mistake that many of us are constantly making unconsciously. As programmers, we need to understand the core of the problem that we're trying to solve through computer software and what the users really want from our programs. We should never blindly code something into our app just because it was done previously. That is simply not efficient and could potentially be harmful as it may introduce bugs into our programs. 
  
 I also feel like our society does a lot of cargo cult practices, but that's another story to tell. 

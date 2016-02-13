@@ -26,6 +26,7 @@ Everything! I have an economics exam coming up on Monday, so I really need to st
 Hopefully I’ll do everything that I just mentioned above. If not, I will be doomed.
 
 **Tip of the Week**:
+
 Have you guys heard about the discovery of the gravitational waves? I mean, have you read the news that WE HUMANS HAVE DISCOVERED GRAVITATIONAL WAVES!? It is huge, like, HUGE! I cannot articulate how exciting I was when I found out about this. Reading how the scientists did the experiment was totally awesome. I mean, how can you not get excited when there was laser beam involved? 
 
 If you have no idea what I’m talking about, please do yourself a favor and Google gravitational waves when you have time. If you appreciate science, you will not be disappointed.

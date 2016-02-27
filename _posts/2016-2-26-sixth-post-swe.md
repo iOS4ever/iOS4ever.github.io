@@ -14,7 +14,7 @@ Oh wait, this is not supposed to be a wildlife journal. My apologies.
 Let me bring the subject back to the beautiful CS world of software engineering. 
 
 
-We went over function defaults and unwrapping in Python this week. I think most of us are very familiar with function defaults, but what exactly is unwrapping? Personally, I think it is very similar to dereferencing. Here is a snippet of the code:
+We went over function defaults and unpacking in Python this week. I think most of us are very familiar with function defaults, but what exactly is unpacking? Personally, I think it is very similar to dereferencing. Here is a snippet of the code:
 
 ```
 t = (1, 2)
@@ -24,7 +24,7 @@ print(f(t))	// [(1, 2), 20]
 print(f(*t))  // [1, 2]
 ```
 
-Hopefully you now see why I think it’s a bit like dereferencing in C. t is a tuple, but that is really just a disguise. It is actually just an address of where *1* is stored. If you put * in front of t, you’d be able to get the content within the tuple instead of the tuple itself.
+Hopefully you now see why I think it’s a bit like dereferencing in C. t is a tuple, but that is really just a disguise. It is actually just an address of where *1* is stored. If you put * in front of t, you’d be able to get the content within the tuple instead of the tuple itself. It also works with a dictionary when you want to assign the arguments by name, which is also very cool.
 
 
 That brings me to the weirdest part of this week’s adventure in Python – mutable function defaults. Consider the following code:

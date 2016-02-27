@@ -59,7 +59,7 @@ I started studying some Python in preparation for the upcoming storm.
 **What’s in your way?**
 
 
-There should be a function default for this. If I don’t put in anything here, it’d automatically put quizzes in here. Anyway, the evil exam 1 is in my way, and its job is to torture innocent people such as myself.
+There should be a function default for this. If I don’t put in anything here, it’d automatically put quizzes. Anyway, the evil exam 1 is in my way, and its job is to torture innocent people such as myself.
 
 
 **What will you do next week?**

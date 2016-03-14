@@ -2,16 +2,16 @@
 layout: post
 title: Week 8 – Start of Something New
 ---
-Hello, Spring Breakers
+Hello, Spring Breakers.
 
 
-We finally began going over the big project of this class: a database website. What we’re supposed to do is to make a web app that is similar to IMDB with a topic of our choice. This is the project that I had been looking forward to as it involves JavaScript. Although my work involves JS, I’m still very new to the language and I can’t wait to learn more about it. Many members of my group have had used it before, so it’s very exciting to me as there is so much to learn from them.
+We finally began going over the big project of this class: a database website. What we’re supposed to do is to make a web app that is similar to IMDb with a topic of our choice. This is the project that I had been looking forward to as it involves JavaScript. Although my work involves JS, I’m still very new to the language and I can’t wait to learn more about it. Many members of my group have had used it before, so it’s very exciting to me as there is so much to learn from them.
 
 
 Almost forgot to mention, we chose video games as our topic because we found several good APIs that we can use and one of our members is a big gamer. I proposed Halo as our topic as I’m a huge fan and the Halo lore is absolutely gorgeous. That being said, the API that Wikia sites provide isn’t that well documented, so sadly, we had to choose our other idea. Although one of our members is very happy about the outcome.
 
 
-We actually didn’t have class on Friday (yay!) and I attended the fireside chat with Max Levchin, one of the co-founders of PayPal, and Longhorn startup idea pitch. I have to say that Max is a really sharp man and it was really cool to be so close to one of the most successful humans in history. This kind of opportunity certainly is one of the best perks of being a Longhorn
+We actually didn’t have class on Friday (yay!) and I attended the fireside chat with Max Levchin, a member of the PayPal Mafia, and Longhorn startup idea pitch. I have to say that Max is a really sharp man and it was really cool to be so close to one of the most successful humans in history. This kind of opportunity certainly is one of the best perks of being a Longhorn.
 
 
 **What did you do this past week?**

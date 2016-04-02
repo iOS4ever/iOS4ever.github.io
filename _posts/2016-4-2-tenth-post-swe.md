@@ -38,8 +38,8 @@ What happens when you piss off a developer and cause him to remove his code from
 You may break the Internet.
 
 
-What happened: (http://www.sciencealert.com/how-a-programmer-almost-broke-the-internet-by-deleting-11-lines-of-code)[ http://www.sciencealert.com/how-a-programmer-almost-broke-the-internet-by-deleting-11-lines-of-code]
+What happened: [http://www.sciencealert.com/how-a-programmer-almost-broke-the-internet-by-deleting-11-lines-of-code]( http://www.sciencealert.com/how-a-programmer-almost-broke-the-internet-by-deleting-11-lines-of-code)
 
 
-How it happened: (https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.vak70c5gk)[ https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.vak70c5gk]
+How it happened: [https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.vak70c5gk]( https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.vak70c5gk)
 

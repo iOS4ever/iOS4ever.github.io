@@ -1,8 +1,8 @@
 --- 
 layout: post 
-title: Week 12 – Class Start
+title: Week 12 – Software Engineering
 --- 
-Hello, Software Engineer. 
+Hello, software engineering.
 
  
 We finally wrapped up SQL on Wednesday. Since I took Data Management last semester, most, if not all, of the stuffs we went over in class were reviews for me. I do have to mention that Downing does a much better job teaching SQL and taught me more about the language than what my Data Management class did. I'm not sure if this is interesting or just downright sad.

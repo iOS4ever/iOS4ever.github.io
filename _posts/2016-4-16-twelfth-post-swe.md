@@ -27,7 +27,7 @@ Besides the final stage of the project, I’ll have to start focusing on other n
  
 **What will you do next week?** 
  
-As I mentioned above, I will do the homework from algorithm and economics. I’ll also register classes for Fall and I’m really hoping that I can get all of the classes I want. It is my last semester, and I really hope the department doesn’t screw me over again.
+As I mentioned above, I will do the homework from algorithm and economics. I’ll also register classes for Fall and I’m really hoping that I can get all the classes I want. It is my last semester, and I really hope the department doesn’t screw me over again.
  
  
  
@@ -48,5 +48,7 @@ Please tell me you watched the video and at the very least chuckled. Here is ano
 
 
 And here’s a bonus video on mass surveillance by Kurzgesagt
+
+
 [Safe and Sorry - Kurzgesagt]( https://www.youtube.com/watch?v=V9_PjdU3Mpo&ab_channel=Kurzgesagt–InaNutshell)
 

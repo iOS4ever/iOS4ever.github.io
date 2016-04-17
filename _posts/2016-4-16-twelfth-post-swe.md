@@ -39,7 +39,7 @@ Do you like docker? [Hitler]( https://www.youtube.com/watch?v=PivpCKEiQOQ&featur
 **Tip of the Week 2**:  
 
 
-Please tell me you watched the video and at the very least chuckled. Here is another tip of the week for this entry, and it’s all about digital encryption. The videos are made by GPCrey and I highly recommend them.
+Please tell me you watched the video and at the very least chuckled. Here is another tip of the week for this entry, and it’s all about digital encryption. The videos are made by CGPGrey and I highly recommend them.
 
 [Should All Locks Have Keys? – CGPGrey]( https://www.youtube.com/watch?v=VPBH1eW28mo&ab_channel=CGPGrey)
 
